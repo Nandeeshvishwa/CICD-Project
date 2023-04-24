@@ -2,6 +2,7 @@
   <h1> Kishorecarshop </h1>
   <h4>We Modify, Tune and sell cars</h4>
   <p>Hi, this is kishore login to check out my car modification plans</p>
+  <p> we are planning to open a bike shop shortly kindly co-operate </p>>
   <label for="fname">First Name</label>
   <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
