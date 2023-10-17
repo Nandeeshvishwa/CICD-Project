@@ -1,3 +1,3 @@
 # CI-CD
 
-This is Simple ci-cd project
+This is my Simple ci-cd project
